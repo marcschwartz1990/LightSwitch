@@ -11,6 +11,8 @@
 		AF5A614428D38B4E00864239 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5A614328D38B4E00864239 /* ContentView.swift */; };
 		AF5A614628D38B4F00864239 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF5A614528D38B4F00864239 /* Assets.xcassets */; };
 		AF5A614928D38B4F00864239 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF5A614828D38B4F00864239 /* Preview Assets.xcassets */; };
+		AF5A615028D38B6800864239 /* PushButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5A614F28D38B6800864239 /* PushButton.swift */; };
+		AF5A615228D38BC600864239 /* Light.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5A615128D38BC600864239 /* Light.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		AF5A614328D38B4E00864239 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AF5A614528D38B4F00864239 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF5A614828D38B4F00864239 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AF5A614F28D38B6800864239 /* PushButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PushButton.swift; sourceTree = "<group>"; };
+		AF5A615128D38BC600864239 /* Light.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Light.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				AF5A614128D38B4E00864239 /* LightSwitchApp.swift */,
 				AF5A614328D38B4E00864239 /* ContentView.swift */,
+				AF5A615128D38BC600864239 /* Light.swift */,
+				AF5A614F28D38B6800864239 /* PushButton.swift */,
 				AF5A614528D38B4F00864239 /* Assets.xcassets */,
 				AF5A614728D38B4F00864239 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				AF5A614428D38B4E00864239 /* ContentView.swift in Sources */,
 				AF5A614228D38B4E00864239 /* LightSwitchApp.swift in Sources */,
+				AF5A615228D38BC600864239 /* Light.swift in Sources */,
+				AF5A615028D38B6800864239 /* PushButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
