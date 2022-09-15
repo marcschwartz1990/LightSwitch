@@ -32,9 +32,9 @@ import SwiftUI
 //}
 //
 //struct PushButton_Previews: PreviewProvider {
-//    @State private var sample: Bool = false
+//    @State private var lightToggle: Bool = false
 //    
 //    static var previews: some View {
-//        PushButton(titleWhenOn: "Turn Off", titleWhenOff: "Turn On", isOn: $sample)
+//        PushButton(titleWhenOn: "Turn Off", titleWhenOff: "Turn On", isOn: $lightToggle)
 //    }
 //}
